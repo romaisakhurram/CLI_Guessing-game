@@ -8,7 +8,7 @@ import inquirer from "inquirer";
 
 // Compare user input with generate computer number and show result
 
-const randomNumber = Math.floor(Math.random()*5 + 1)
+const randomNumber = Math.floor(Math.random () *5 + 1)
 
 const answer = await inquirer.prompt([
 {
