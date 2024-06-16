@@ -1,9 +1,10 @@
 {
-  "name": "cli_guessing-game",
+  "name": "m1_cli_guessing-game",
   "version": "1.0.0",
   "description": "A number guessing games",
   "main": "index.js",
   "type": "module",
+  "bin": "main.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
