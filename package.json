@@ -14,6 +14,7 @@
   "author": "romaisa",
   "license": "MIT",
   "dependencies": {
+    "@romaisakhurram/cli_guessing-game": "^1.0.0",
     "@types/node": "^20.14.2",
     "inquirer": "^9.2.23",
     "m1_cli_guessing-game": "^1.0.0"
