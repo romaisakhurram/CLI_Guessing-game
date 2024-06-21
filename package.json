@@ -1,6 +1,6 @@
 {
   "name": "@romaisakhurram/cli_guessing-game",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A number guessing games",
   "main": "index.js",
   "type": "module",
@@ -14,7 +14,7 @@
   "author": "romaisa",
   "license": "MIT",
   "dependencies": {
-    "@romaisakhurram/cli_guessing-game": "^1.0.0",
+    "@romaisakhurram/cli_guessing-game": "^1.0.2",
     "@types/node": "^20.14.2",
     "inquirer": "^9.2.23",
     "m1_cli_guessing-game": "^1.0.0"
